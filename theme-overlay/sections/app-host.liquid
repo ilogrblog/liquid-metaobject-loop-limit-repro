@@ -1,0 +1,14 @@
+{%- comment -%}
+  Hosts app blocks so the theme app extension probe can be added to a page.
+{%- endcomment -%}
+{%- for block in section.blocks -%}
+  {%- render block -%}
+{%- endfor -%}
+
+{% schema %}
+{
+  "name": "App host",
+  "blocks": [{ "type": "@app" }],
+  "presets": [{ "name": "App host" }]
+}
+{% endschema %}

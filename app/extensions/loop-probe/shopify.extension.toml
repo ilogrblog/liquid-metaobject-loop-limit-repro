@@ -1,0 +1,6 @@
+api_version = "2026-10"
+
+[[extensions]]
+name = "loop-probe"
+handle = "loop-probe"
+type = "theme"

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+shopify.app.toml
+.shopify/
+node_modules/
+.env
+*.cookies

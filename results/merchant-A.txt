@@ -1,0 +1,60 @@
+== seeded 49 (waited 0 s for the reported count) ==
+PROBE section=<id> type=repro_item page_size=250 values_count=49 plain_loop=49 paginated_loop=49 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=49 plain_loop=49 paginated_loop=49 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+
+== seeded 50 (waited 11 s for the reported count) ==
+PROBE section=<id> type=repro_item page_size=250 values_count=50 plain_loop=50 paginated_loop=50 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=50 plain_loop=50 paginated_loop=50 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+
+== seeded 51 (waited 17 s for the reported count) ==
+PROBE section=<id> type=repro_item page_size=250 values_count=51 plain_loop=50 paginated_loop=51 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=51 plain_loop=50 paginated_loop=51 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+
+== seeded 249 (waited 11 s for the reported count) ==
+PROBE section=<id> type=repro_item page_size=250 values_count=249 plain_loop=50 paginated_loop=249 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=249 plain_loop=50 paginated_loop=249 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+
+== seeded 250 (waited 16 s for the reported count) ==
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page=1
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page_84b1df17=1
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page=2
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page_84b1df17=2
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=0 pages=1 current_page=2 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=0 pages=1 current_page=2 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page=3
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=250 pages=1 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page_84b1df17=3
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=0 pages=1 current_page=3 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=250 plain_loop=50 paginated_loop=0 pages=1 current_page=3 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+
+== seeded 251 (waited 106 s for the reported count) ==
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page=1
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page_84b1df17=1
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page=2
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page_84b1df17=2
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=1 pages=2 current_page=2 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=1 pages=2 current_page=2 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page=3
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=250 pages=2 current_page=1 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+# GET /?page_84b1df17=3
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=0 pages=2 current_page=3 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+PROBE section=<id> type=repro_item page_size=250 values_count=251 plain_loop=50 paginated_loop=0 pages=2 current_page=3 page_param="page_84b1df17" split_1300=1300 range_1300=1300
+

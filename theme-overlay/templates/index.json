@@ -1,0 +1,7 @@
+{
+  "sections": {
+    "probe_a": { "type": "loop-probe", "settings": { "definition_type": "repro_item", "page_size": 250 } },
+    "probe_b": { "type": "loop-probe", "settings": { "definition_type": "repro_item", "page_size": 250 } }
+  },
+  "order": ["probe_a", "probe_b"]
+}
